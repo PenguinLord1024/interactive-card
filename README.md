@@ -1,2 +1,2 @@
 # interactive-card
-Normal web development tings for day to day life
+happy bday/happy marriage/any other thing, everything works till you have pics
